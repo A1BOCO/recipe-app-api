@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true">
+        <option name="ignoredIdentifiers">
+          <list>
+            <option value="flask_examples.blogs.blogs" />
+            <option value="flask_examples.app.blogs" />
+            <option value="flask_examples.blogs.models.blogs" />
+          </list>
+        </option>
+      </scope>
+    </inspection_tool>
+  </profile>
+</component>
